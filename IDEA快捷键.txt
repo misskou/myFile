@@ -1,0 +1,10 @@
+art + enter : 快速导入需要的包
+ctrl + alt + v : new 后自动补全对象
+alt + 7 : 查看类视图
+ctrl + shift + r :查找替换
+ctrl + shift + f : 查找
+ctrl + D : 复制当前行
+ctrl + O : 选择父类的方法重写
+ctrl + Art + I : 排版
+ctrl + Shift + Art + U :查看类图
+参考：https://blog.csdn.net/qq_21371027/article/details/46988235
