@@ -1,0 +1,8 @@
+如何通过Git GUI将自己本地的项目上传至Github:
+https://blog.csdn.net/binnygoal/article/details/79597368
+
+Git -- 如何删除本地仓库:
+https://blog.csdn.net/bloombud/article/details/80431557
+
+IDEA git修改远程仓库地址：
+https://blog.csdn.net/u011136197/article/details/79429000
